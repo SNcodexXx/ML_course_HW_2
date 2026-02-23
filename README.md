@@ -1,5 +1,5 @@
 # ML_course_HW_2
-Для выполнения ДЗ использовался датасет "Spaceship Titanic".
+Для выполнения ДЗ использовался датасет "Spaceship Titanic" (https://www.kaggle.com/competitions/spaceship-titanic).
 
 Были добавлены следующие фичи:
   1. total_spend - сумма всех трат
@@ -10,4 +10,4 @@
 В итоговом стекинге используются RandomForest и CatBoost.
 Добавление LightGBM, kNN и SVM не дали существенного улучшения результата.
 
-Итоговый результат ~ top 15%.
+Итоговый результат ~ top 15% (273 место).
